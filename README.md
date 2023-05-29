@@ -16,5 +16,7 @@ We performed a process of feature extraction and selection of relevant features 
 
 Finally we used Elasticsearch with AKNN, which  enables searching and locating similar documents or items in real time.
 
+# Solution Description 
+
 
 ![image](https://github.com/rivkabuskila/encrypted_traffic_classification/assets/93525881/f687a1db-d9b6-4f1c-be3b-dde2e2ad0958)
